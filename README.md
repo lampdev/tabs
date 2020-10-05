@@ -1,4 +1,5 @@
 # Nova Tabs Field
+[![Latest Version on Github](https://img.shields.io/packagist/v/lampdev/tabs.svg?style=flat)](https://packagist.org/packages/lampdev/tabs)
 
 Simple [Laravel Nova](https://nova.laravel.com) Tabs field.
 
